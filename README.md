@@ -5,6 +5,10 @@
 * Finding innovative and automative ways to solve technology issues
 * Sharing what knowledge I have with others will simultaneously learning from them
 
+### Speaking Engagements
+* 2020 Heartland Developer Conference: "DevOps: Putting it all Together"
+* [2019 Heartland Developer Conferecne: "Data Analytics in Azure: Our Journey and Experience](https://2019aimhdc.sched.com/event/RZFx/data-analytics-in-azure-our-journey-and-experience)
+
 ### Industry Certifications
 #### Microsoft
 [<img src="https://github.com/JFolberth/JFolberth/blob/master/Images/mcsa-cloud-platform-certified-2018.png">](https://www.youracclaim.com/badges/cea4a639-55af-49dc-a2e6-2fa982f852e5)
