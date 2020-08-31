@@ -1,3 +1,10 @@
+### Interests
+* Technology.....duh
+* A love hate relationship with running
+* Trying to keep up with my kids
+* Finding innovative and automative ways to solve technology issues
+* Sharing what knowledge I have with others will simultaneously learning from them
+
 ### Industry Certifications
 #### Microsoft
 [<img src="https://github.com/JFolberth/JFolberth/blob/master/Images/mcsa-cloud-platform-certified-2018.png">](https://www.youracclaim.com/badges/cea4a639-55af-49dc-a2e6-2fa982f852e5)
@@ -13,17 +20,4 @@
 [<img src="https://github.com/JFolberth/JFolberth/blob/master/Images/aws-certified-solutions-architect-associate.png">](https://www.youracclaim.com/badges/143806b6-4c26-4cf8-ba05-e1c049287dce)
 [<img src="https://github.com/JFolberth/JFolberth/blob/master/Images/aws-certified-cloud-practitioner.png">](https://www.youracclaim.com/badges/d1970aa6-5ef2-46f0-aa73-3af0a13b3914)
 
-<!--
-**JFolberth/JFolberth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
