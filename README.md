@@ -7,7 +7,7 @@
 
 ### Speaking Engagements
 * 2020 Heartland Developer Conference: "DevOps: Putting it all Together"
-* [2019 Heartland Developer Conferecne: "Data Analytics in Azure: Our Journey and Experience](https://2019aimhdc.sched.com/event/RZFx/data-analytics-in-azure-our-journey-and-experience)
+* [2019 Heartland Developer Conference: "Data Analytics in Azure: Our Journey and Experience](https://2019aimhdc.sched.com/event/RZFx/data-analytics-in-azure-our-journey-and-experience)
 
 ### Industry Certifications
 #### Microsoft
