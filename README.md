@@ -17,6 +17,7 @@
 [<img src="https://github.com/JFolberth/JFolberth/blob/master/Images/microsoft-certified-devops-engineer-expert.png">](https://www.youracclaim.com/badges/6ee4973b-51d9-4d47-a973-84d5e8dcb1a2)
 [<img src="https://github.com/JFolberth/JFolberth/blob/master/Images/microsoft-certified-data-analyst-associate.1.png">](https://www.youracclaim.com/badges/85aef0a9-83be-444d-98e7-2f0a2f95d658)
 [<img src="https://github.com/JFolberth/JFolberth/blob/master/Images/microsoft-certified-azure-administrator-associate.1.png">](https://www.youracclaim.com/badges/7a2add06-8328-4b8a-8625-772243c82aec)
+[<img src="https://github.com/JFolberth/JFolberth/blob/master/Images/microsoft-certified-azure-developer-associate.1 (1).png">](https://www.youracclaim.com/badges/bc8b844b-a819-435d-8a6d-6f5200d662a9/public_url)
 [<img src="https://github.com/JFolberth/JFolberth/blob/master/Images/microsoft-certified-azure-fundamentals.png">](https://www.youracclaim.com/badges/324c1ed0-4157-4229-9917-06f9552fed1e)
 [<img src="https://github.com/JFolberth/JFolberth/blob/master/Images/microsoft-certified-azure-data-fundamentals.png">](https://www.youracclaim.com/badges/47f35651-ba7a-4202-895a-40ec943600ab)
 
