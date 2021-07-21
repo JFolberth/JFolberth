@@ -24,7 +24,7 @@
 [<img src="https://github.com/JFolberth/JFolberth/blob/master/Images/microsoft-certified-azure-data-fundamentals.png">](https://www.youracclaim.com/badges/47f35651-ba7a-4202-895a-40ec943600ab)
 [<img src="https://github.com/JFolberth/JFolberth/blob/master/Images/security-compliance-and-identity-fundamentals-120x120.png">](https://www.credly.com/badges/ef66486b-00cc-4df0-90d1-540d95058ab0/public_url)
 
-### Azure Hero Badgers
+#### Azure Hero Badgers
 [<img src="https://github.com/JFolberth/JFolberth/blob/master/Images/azure_hero_content_hero.png">](https://enjinx.io/eth/asset/6880000000000514)
 [<img src="https://github.com/JFolberth/JFolberth/blob/master/Images/azure_hero_opensourcer.png">](https://enjinx.io/eth/asset/688000000000091c)
 
