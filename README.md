@@ -1,5 +1,5 @@
 ### Interests
-* Technology.....duh
+* Technology.
 * A love hate relationship with running
 * Trying to keep up with my kids
 * Finding innovative and automative ways to solve technology issues
@@ -31,6 +31,9 @@
 #### AWS
 [<img src="https://github.com/JFolberth/JFolberth/blob/master/Images/aws-certified-solutions-architect-associate.png">](https://www.youracclaim.com/badges/143806b6-4c26-4cf8-ba05-e1c049287dce)
 [<img src="https://github.com/JFolberth/JFolberth/blob/master/Images/aws-certified-cloud-practitioner.png">](https://www.youracclaim.com/badges/d1970aa6-5ef2-46f0-aa73-3af0a13b3914)
+
+### GitHub Stats
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfolberth&show_icons=true)
 
 
 
