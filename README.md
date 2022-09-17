@@ -31,7 +31,7 @@ I am former Microsoft Azure MVP who currently works for Microsoft as a Senior Cl
 [<img src="Images/security-compliance-and-identity-fundamentals-120x120.png" alt="Azure Security, Compliance and Identity Fundamentals Certification Badge">](https://www.credly.com/badges/ef66486b-00cc-4df0-90d1-540d95058ab0/public_url)
 
 #### Terraform
-[<img src="Images/hashicorp-certified-terraform-associate.png" alt="Terraform Associate Certification Badge" width="50" height="50">](https://www.credly.com/badges/dde5c34f-91d3-4f5a-bfb4-b72dd16a2bda/public_url)
+[<img src="Images/hashicorp-certified-terraform-associate.png" alt="Terraform Associate Certification Badge" width="75" height="75">](https://www.credly.com/badges/dde5c34f-91d3-4f5a-bfb4-b72dd16a2bda/public_url)
 
 #### Azure Hero Badgers
 [<img src="Images/azure_hero_content_hero.png" alt="Azure Hero Badge for Content Hero">](https://enjinx.io/eth/asset/6880000000000514)
