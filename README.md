@@ -9,6 +9,7 @@ I am former Microsoft Azure MVP who currently works for Microsoft as a Senior Cl
 * Sharing what knowledge I have with others will simultaneously learning from them
 
 ### Speaking Engagements
+* 2022 Heartland Developer Conference: [Many Flavors of Azure Infrastructure as Code](https://github.com/JFolberth/Azure_IaC_Flavors)
 * 2020 Heartland Developer Conference: "DevOps: Putting it all Together"
 * [2019 Heartland Developer Conference: "Data Analytics in Azure: Our Journey and Experience](https://2019aimhdc.sched.com/event/RZFx/data-analytics-in-azure-our-journey-and-experience)
 * [Omaha Azure User Group: YAML Deployment Pipelines](https://blog.johnfolberth.com/yaml-deployment-pipelines/)
