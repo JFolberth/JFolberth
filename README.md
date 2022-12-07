@@ -28,7 +28,7 @@ I have a blog at [Blog.JohnFolberth.com](https://blog.johnfolberth.com). Additio
 
 ### Publications
 Tech Review on "Building Applications with Azure Resource Manager (ARM): Leverage IaC to Vastly Improve the LIfe Cycle of Your Applications"
-[<img src="Images/IaCBook.jpg" width="200" alt="Building Applications with Azure Resource Manager (ARM): Leverage IaC to Vastly Improve the LIfe Cycle of Your Applications">]
+<img src="Images/IaCBook.jpg" width="200" alt="Building Applications with Azure Resource Manager (ARM): Leverage IaC to Vastly Improve the LIfe Cycle of Your Applications">
 
 
 ### Industry Certifications
