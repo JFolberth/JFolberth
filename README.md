@@ -11,6 +11,7 @@ I have a blog at [Blog.JohnFolberth.com](https://blog.johnfolberth.com). Additio
   * [Azure DevOps Terraform Task](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-09-10/)
 * Microsoft Healthcare and Life Sciences Blog
   * [Tracking Azure History with Azure Resource Graph](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/tracking-azure-history-with-azure-resource-graph/ba-p/3611914)
+  * [Azure Cosmos DB for PostgreSQL w/React Quickstart - CoAuthor](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-cosmos-db-for-postgresql-w-react-quickstart/ba-p/3666430)
 
 ### Interests
 * Technology.
