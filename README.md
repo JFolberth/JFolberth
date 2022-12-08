@@ -21,15 +21,15 @@ I have a blog at [Blog.JohnFolberth.com](https://blog.johnfolberth.com). Additio
 
 ### Speaking Engagements
 * 2022 Heartland Developer Conference: ["Many Flavors of Azure IaC"](https://github.com/JFolberth/Azure_IaC_Flavors)
-* 2020 Heartland Developer Conference: "DevOps: Putting it all Together"
-* [2019 Heartland Developer Conference: "Data Analytics in Azure: Our Journey and Experience](https://2019aimhdc.sched.com/event/RZFx/data-analytics-in-azure-our-journey-and-experience)
+* 2020 Heartland Developer Conference: ["The DevOps Mindset"](https://blog.johnfolberth.com/hdc-2020-breakout-session-the-devops-mindset/)
+* 2019 Heartland Developer Conference: ["Data Analytics in Azure: Our Journey and Experience](https://2019aimhdc.sched.com/event/RZFx/data-analytics-in-azure-our-journey-and-experience)
 * [Omaha Azure User Group: YAML Deployment Pipelines](https://blog.johnfolberth.com/yaml-deployment-pipelines/)
 * [Omaha Azure User Group: Azure Bicep Walkthrough](https://blog.johnfolberth.com/omaha-azure-user-group-azure-bicep-walkthrough/)
 
 ### Publications
 Tech Review on "Building Applications with Azure Resource Manager (ARM): Leverage IaC to Vastly Improve the LIfe Cycle of Your Applications"
 
-<img src="Images/IaCBook.jpg" width="200" alt="Building Applications with Azure Resource Manager (ARM): Leverage IaC to Vastly Improve the LIfe Cycle of Your Applications">
+<img src="Images/IaCBook.jpg" width="200" alt="Building Applications with Azure Resource Manager (ARM): Leverage IaC to Vastly Improve the Life Cycle of Your Applications">
 
 
 ### Industry Certifications
