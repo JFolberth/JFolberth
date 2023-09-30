@@ -12,7 +12,8 @@ I have a blog at [Blog.JohnFolberth.com](https://blog.johnfolberth.com). Additio
 * Microsoft Healthcare and Life Sciences Blog
   * [Tracking Azure History with Azure Resource Graph](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/tracking-azure-history-with-azure-resource-graph/ba-p/3611914)
   * [Azure Cosmos DB for PostgreSQL w/React Quickstart - CoAuthor](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-cosmos-db-for-postgresql-w-react-quickstart/ba-p/3666430)
-  * [Azure DevOps Pipelines: Tasks, Jobs, Stages](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/azure-devops-pipelines-tasks-jobs-stages/ba-p/3694772)
+  * [Series of Posts on Azure DevOps YAML Pipelines](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/bg-p/HealthcareAndLifeSciencesBlog/label-name/YAML%20Pipeline%20Series)
+  * [Series of Post on Azure Data Factory CI/CD](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/bg-p/HealthcareAndLifeSciencesBlog/label-name/Azure%20Data%20Factory)
 
 ### Interests
 * Technology.
@@ -22,6 +23,7 @@ I have a blog at [Blog.JohnFolberth.com](https://blog.johnfolberth.com). Additio
 * Sharing what knowledge I have with others will simultaneously learning from them
 
 ### Speaking Engagements
+* 2023 [West Michigan Azure User Group: Azure Load Testing](https://youtu.be/KB95CbkgoMk?feature=shared)
 * 2022 Heartland Developer Conference: ["Many Flavors of Azure IaC"](https://github.com/JFolberth/Azure_IaC_Flavors)
 * 2020 Heartland Developer Conference: ["The DevOps Mindset"](https://blog.johnfolberth.com/hdc-2020-breakout-session-the-devops-mindset/)
 * 2019 Heartland Developer Conference: ["Data Analytics in Azure: Our Journey and Experience](https://2019aimhdc.sched.com/event/RZFx/data-analytics-in-azure-our-journey-and-experience)
