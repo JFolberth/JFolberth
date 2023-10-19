@@ -5,6 +5,7 @@ I am former Microsoft Azure MVP who currently works for Microsoft as a Senior Cl
 I have a blog at [Blog.JohnFolberth.com](https://blog.johnfolberth.com). Additionally I have had blogs posted and/or featured on:
 * [European SharePoint, Office 365 and Azure Conference (ESPC)](https://www.sharepointeurope.com/azure-devops-terraform-task/)
 * [Feedspot Top Terraform Blogs](https://blog.feedspot.com/terraform_blogs/)
+* [Feedspot Top Azure Blogs](https://rss.feedspot.com/microsoft_azure_rss_feeds/)
 * Top Stories from Microsoft DevOps Community
   * [Dynamically Retain Azure DevOps Pipelines](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-01-04/)
   * [Terraform, Azure DevOps, App Services, and Slots](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-11-12/)
@@ -23,7 +24,8 @@ I have a blog at [Blog.JohnFolberth.com](https://blog.johnfolberth.com). Additio
 * Sharing what knowledge I have with others will simultaneously learning from them
 
 ### Speaking Engagements
-* 2023 [West Michigan Azure User Group: Azure Load Testing](https://youtu.be/KB95CbkgoMk?feature=shared)
+* 2023 Heartland Developer Conference: [Azure Deployment Environments the Future of Development](https://github.com/JFolberth/ToDo_AzureDeploymentEnvironment)
+* [West Michigan Azure User Group: Introducing Azure Load Testing to your CI/CD Pipelines](https://youtu.be/KB95CbkgoMk?feature=shared)
 * 2022 Heartland Developer Conference: ["Many Flavors of Azure IaC"](https://github.com/JFolberth/Azure_IaC_Flavors)
 * 2020 Heartland Developer Conference: ["The DevOps Mindset"](https://blog.johnfolberth.com/hdc-2020-breakout-session-the-devops-mindset/)
 * 2019 Heartland Developer Conference: ["Data Analytics in Azure: Our Journey and Experience](https://2019aimhdc.sched.com/event/RZFx/data-analytics-in-azure-our-journey-and-experience)
@@ -48,6 +50,7 @@ Tech Review on "Building Applications with Azure Resource Manager (ARM): Leverag
 [<img src="Images/microsoft-certified-azure-administrator-associate.png" alt="Azure Administrator Associate Certification Badge">](https://www.youracclaim.com/badges/7a2add06-8328-4b8a-8625-772243c82aec)
 [<img src="Images/microsoft-certified-azure-developer-associate.png" alt="Azure Developer Associate Certification Badge">](https://www.youracclaim.com/badges/bc8b844b-a819-435d-8a6d-6f5200d662a9/public_url)
 [<img src="Images/microsoft-certified-azure-network-engineer-associate.png" alt="Azure Network Engineer Associate Certification Badge">](https://www.credly.com/badges/29ebd856-857d-41bd-80fe-ac04ed473597/public_url)
+<img src="Images/cosmos_specialty.png" alt="Azure CosmosDB Specialty Badge">
 [<img src="Images/microsoft-certified-azure-fundamentals.png" alt="Azure Fundamentals Certification Badge">](https://www.youracclaim.com/badges/324c1ed0-4157-4229-9917-06f9552fed1e)
 [<img src="Images/microsoft-certified-azure-data-fundamentals.png" alt="Azure Data Fundamentals Certification Badge">](https://www.youracclaim.com/badges/47f35651-ba7a-4202-895a-40ec943600ab)
 [<img src="Images/microsoft-certified-security-compliance-and-identity-fundamentals.png" alt="Azure Security, Compliance and Identity Fundamentals Certification Badge">](https://www.credly.com/badges/ef66486b-00cc-4df0-90d1-540d95058ab0/public_url)
