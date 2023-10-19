@@ -12,8 +12,9 @@ I have a blog at [Blog.JohnFolberth.com](https://blog.johnfolberth.com). Additio
   * [Azure DevOps Terraform Task](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-09-10/)
 * Microsoft Healthcare and Life Sciences Blog
   * [Tracking Azure History with Azure Resource Graph](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/tracking-azure-history-with-azure-resource-graph/ba-p/3611914)
-  * [YAML Pipeline Series of Multiple Blogs](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/bg-p/HealthcareAndLifeSciencesBlog/label-name/YAML%20Pipeline%20Series)
-  * [Azure Data Factory CI/CD Pipeline Series](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/bg-p/HealthcareAndLifeSciencesBlog/label-name/CICD%20ADF)
+  * [Azure Cosmos DB for PostgreSQL w/React Quickstart - CoAuthor](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-cosmos-db-for-postgresql-w-react-quickstart/ba-p/3666430)
+  * [Series of Posts on Azure DevOps YAML Pipelines](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/bg-p/HealthcareAndLifeSciencesBlog/label-name/YAML%20Pipeline%20Series)
+  * [Series of Post on Azure Data Factory CI/CD](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/bg-p/HealthcareAndLifeSciencesBlog/label-name/Azure%20Data%20Factory)
 
 ### Interests
 * Technology.
@@ -26,15 +27,15 @@ I have a blog at [Blog.JohnFolberth.com](https://blog.johnfolberth.com). Additio
 * 2023 Heartland Developer Conference: [Azure Deployment Environments the Future of Development](https://github.com/JFolberth/ToDo_AzureDeploymentEnvironment)
 * [West Michigan Azure User Group: Introducing Azure Load Testing to your CI/CD Pipelines](https://youtu.be/KB95CbkgoMk?feature=shared)
 * 2022 Heartland Developer Conference: ["Many Flavors of Azure IaC"](https://github.com/JFolberth/Azure_IaC_Flavors)
-* 2020 Heartland Developer Conference: "DevOps: Putting it all Together"
-* [2019 Heartland Developer Conference: "Data Analytics in Azure: Our Journey and Experience](https://2019aimhdc.sched.com/event/RZFx/data-analytics-in-azure-our-journey-and-experience)
+* 2020 Heartland Developer Conference: ["The DevOps Mindset"](https://blog.johnfolberth.com/hdc-2020-breakout-session-the-devops-mindset/)
+* 2019 Heartland Developer Conference: ["Data Analytics in Azure: Our Journey and Experience](https://2019aimhdc.sched.com/event/RZFx/data-analytics-in-azure-our-journey-and-experience)
 * [Omaha Azure User Group: YAML Deployment Pipelines](https://blog.johnfolberth.com/yaml-deployment-pipelines/)
 * [Omaha Azure User Group: Azure Bicep Walkthrough](https://blog.johnfolberth.com/omaha-azure-user-group-azure-bicep-walkthrough/)
 
 ### Publications
 Tech Review on "Building Applications with Azure Resource Manager (ARM): Leverage IaC to Vastly Improve the LIfe Cycle of Your Applications"
 
-<img src="Images/IaCBook.jpg" width="200" alt="Building Applications with Azure Resource Manager (ARM): Leverage IaC to Vastly Improve the LIfe Cycle of Your Applications">
+<img src="Images/IaCBook.jpg" width="200" alt="Building Applications with Azure Resource Manager (ARM): Leverage IaC to Vastly Improve the Life Cycle of Your Applications">
 
 
 ### Industry Certifications
