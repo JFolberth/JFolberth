@@ -41,20 +41,23 @@ Tech Review on "Building Applications with Azure Resource Manager (ARM): Leverag
 ### Industry Certifications
 #### Microsoft
 
-[<img src="Images/mcsa-cloud-platform-certified-2018.png" alt="MCSA Cloud Platform Badge" width="120" height="120">]()
-[<img src="Images/microsoft-certified-trainer-2020-2021.png" alt="Microsoft Certified Trainer Badge" width="120" height="120">]()
-[<img src="Images/microsoft-certified-azure-solutions-architect-expert.png" alt="Azure Solutions Architect Badge" width="120" height="120">]()
-[<img src="Images/microsoft-certified-devops-engineer-expert.png" alt="DevOps Expert Certification Badge" width="120" height="120">]()
-[<img src="Images/microsoft-certified-data-analyst-associate.png" alt="Microsoft Data Analyst Certification Badge" width="120" height="120">]()
-[<img src="Images/microsoft-certified-azure-data-engineer-associate.png" alt="Azure Data Engineer Associate Certification Badge" width="120" height="120">]()
-[<img src="Images/microsoft-certified-azure-security-engineer-associate_120x120.png" alt="Azure Security Engineer Associate Certification Badge" width="120" height="120">]()
-[<img src="Images/microsoft-certified-azure-administrator-associate.png" alt="Azure Administrator Associate Certification Badge" width="120" height="120">]()
-[<img src="Images/microsoft-certified-azure-developer-associate.png" alt="Azure Developer Associate Certification Badge" width="120" height="120">]()
-[<img src="Images/microsoft-certified-azure-network-engineer-associate.png" alt="Azure Network Engineer Associate Certification Badge" width="120" height="120">]()
-[<img src="Images/cosmos_specialty.png" alt="Azure CosmosDB Specialty Badge" width="120" height="120">]()
-[<img src="Images/microsoft-certified-azure-fundamentals.png" alt="Azure Fundamentals Certification Badge" width="120" height="120">]()
-[<img src="Images/microsoft-certified-azure-data-fundamentals.png" alt="Azure Data Fundamentals Certification Badge" width="120" height="120">]()
-[<img src="Images/microsoft-certified-security-compliance-and-identity-fundamentals.png" alt="Azure Security, Compliance and Identity Fundamentals Certification Badge" width="120" height="120">]()
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"><img src="Images/mcsa-cloud-platform-certified-2018.png" alt="MCSA Cloud Platform Badge" width="120" height="120"></td>
+    <td style="border: none;"><img src="Images/microsoft-certified-trainer-2020-2021.png" alt="Microsoft Certified Trainer Badge" width="120" height="120"></td>
+    <td style="border: none;"><img src="Images/microsoft-certified-azure-solutions-architect-expert.png" alt="Azure Solutions Architect Badge" width="120" height="120"></td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;"><img src="Images/microsoft-certified-devops-engineer-expert.png" alt="DevOps Expert Certification Badge" width="120" height="120"></td>
+    <td style="border: none;"><img src="Images/microsoft-certified-data-analyst-associate.png" alt="Microsoft Data Analyst Certification Badge" width="120" height="120"></td>
+    <td style="border: none;"><img src="Images/microsoft-certified-azure-data-engineer-associate.png" alt="Azure Data Engineer Associate Certification Badge" width="120" height="120"></td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;"><img src="Images/microsoft-certified-azure-security-engineer-associate_120x120.png" alt="Azure Security Engineer Associate Certification Badge" width="120" height="120"></td>
+    <td style="border: none;"><img src="Images/microsoft-certified-azure-administrator-associate.png" alt="Azure Administrator Associate Certification Badge" width="120" height="120"></td>
+    <td style="border: none;"></td>
+  </tr>
+</table>
 
 #### GitHub
 [<img src="Images/github-actions.png" alt="GitHub Actions" width="120" height="120">](https://www.credly.com/badges/888a5ae4-ead7-4f2a-af92-c46aa6e2cfc1/public_url)
