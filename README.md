@@ -35,7 +35,7 @@ I have a blog at [Blog.JohnFolberth.com](https://blog.johnfolberth.com). Additio
 ### Publications
 Tech Review on "Building Applications with Azure Resource Manager (ARM): Leverage IaC to Vastly Improve the LIfe Cycle of Your Applications"
 
-<img src="Images/IaCBook.jpg" width="200" alt="Building Applications with Azure Resource Manager (ARM): Leverage IaC to Vastly Improve the Life Cycle of Your Applications">
+<img src="Images/IaCBook.jpg" width="120" alt="Building Applications with Azure Resource Manager (ARM): Leverage IaC to Vastly Improve the Life Cycle of Your Applications">
 
 
 ### Industry Certifications
@@ -60,18 +60,31 @@ Tech Review on "Building Applications with Azure Resource Manager (ARM): Leverag
 </table>
 
 #### GitHub
-[<img src="Images/github-actions.png" alt="GitHub Actions" width="120" height="120">](https://www.credly.com/badges/888a5ae4-ead7-4f2a-af92-c46aa6e2cfc1/public_url)
 
-#### Terraform
-[<img src="Images/hashicorp-certified-terraform-associate.png" alt="Terraform Associate Certification Badge" width="100" height="100">](https://www.credly.com/badges/dde5c34f-91d3-4f5a-bfb4-b72dd16a2bda/public_url)
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none;"><a href="https://www.credly.com/badges/888a5ae4-ead7-4f2a-af92-c46aa6e2cfc1/public_url"><img src="Images/github-actions.png" alt="GitHub Actions" width="120" height="120"></a></td>
+    <td style="border: none;"><a href="https://www.credly.com/badges/dde5c34f-91d3-4f5a-bfb4-b72dd16a2bda/public_url"><img src="Images/hashicorp-certified-terraform-associate.png" alt="Terraform Associate Certification Badge" width="120" height="120"></a></td>
+  </tr>
+</table>
 
 #### Azure Hero Badgers
-[<img src="Images/azure_hero_content_hero.png" alt="Azure Hero Badge for Content Hero">](https://enjinx.io/eth/asset/6880000000000514)
-[<img src="Images/azure_hero_opensourcer.png" alt="Azure Hero Badge for Open Sourcer Hero">](https://enjinx.io/eth/asset/688000000000091c)
+
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none;"><a href="https://enjinx.io/eth/asset/6880000000000514"><img src="Images/azure_hero_content_hero.png" alt="Azure Hero Badge for Content Hero" width="120" height="120"></a></td>
+    <td style="border: none;"><a href="https://enjinx.io/eth/asset/688000000000091c"><img src="Images/azure_hero_opensourcer.png" alt="Azure Hero Badge for Open Sourcer Hero" width="120" height="120"></a></td>
+  </tr>
+</table>
 
 #### AWS
-[<img src="Images/aws-certified-solutions-architect-associate.png" alt="Amazon Web Services Solutions Architect Associate Certification Badge">](https://www.youracclaim.com/badges/143806b6-4c26-4cf8-ba05-e1c049287dce)
-[<img src="Images/aws-certified-cloud-practitioner.png" alt="Amazon Web Services Solutions Cloud Practitioner Certification Badge">](https://www.youracclaim.com/badges/d1970aa6-5ef2-46f0-aa73-3af0a13b3914)
+
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none;"><a href="https://www.youracclaim.com/badges/143806b6-4c26-4cf8-ba05-e1c049287dce"><img src="Images/aws-certified-solutions-architect-associate.png" alt="Amazon Web Services Solutions Architect Associate Certification Badge" width="120" height="120"></a></td>
+    <td style="border: none;"><a href="https://www.youracclaim.com/badges/d1970aa6-5ef2-46f0-aa73-3af0a13b3914"><img src="Images/aws-certified-cloud-practitioner.png" alt="Amazon Web Services Solutions Cloud Practitioner Certification Badge" width="120" height="120"></a></td>
+  </tr>
+</table>
 
 ### GitHub Stats
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfolberth&show_icons=true)
