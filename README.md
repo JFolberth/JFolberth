@@ -41,18 +41,18 @@ Tech Review on "Building Applications with Azure Resource Manager (ARM): Leverag
 ### Industry Certifications
 #### Microsoft
 
-<table style="border: none;">
-  <tr style="border: none;">
+<table style="border-collapse: collapse;">
+  <tr>
     <td style="border: none;"><img src="Images/mcsa-cloud-platform-certified-2018.png" alt="MCSA Cloud Platform Badge" width="120" height="120"></td>
     <td style="border: none;"><img src="Images/microsoft-certified-trainer-2020-2021.png" alt="Microsoft Certified Trainer Badge" width="120" height="120"></td>
     <td style="border: none;"><img src="Images/microsoft-certified-azure-solutions-architect-expert.png" alt="Azure Solutions Architect Badge" width="120" height="120"></td>
   </tr>
-  <tr style="border: none;">
+  <tr>
     <td style="border: none;"><img src="Images/microsoft-certified-devops-engineer-expert.png" alt="DevOps Expert Certification Badge" width="120" height="120"></td>
     <td style="border: none;"><img src="Images/microsoft-certified-data-analyst-associate.png" alt="Microsoft Data Analyst Certification Badge" width="120" height="120"></td>
     <td style="border: none;"><img src="Images/microsoft-certified-azure-data-engineer-associate.png" alt="Azure Data Engineer Associate Certification Badge" width="120" height="120"></td>
   </tr>
-  <tr style="border: none;">
+  <tr>
     <td style="border: none;"><img src="Images/microsoft-certified-azure-security-engineer-associate_120x120.png" alt="Azure Security Engineer Associate Certification Badge" width="120" height="120"></td>
     <td style="border: none;"><img src="Images/microsoft-certified-azure-administrator-associate.png" alt="Azure Administrator Associate Certification Badge" width="120" height="120"></td>
     <td style="border: none;"></td>
