@@ -35,39 +35,52 @@ I have a blog at [Blog.JohnFolberth.com](https://blog.johnfolberth.com). Additio
 ### Publications
 Tech Review on "Building Applications with Azure Resource Manager (ARM): Leverage IaC to Vastly Improve the LIfe Cycle of Your Applications"
 
-<img src="Images/IaCBook.jpg" width="200" alt="Building Applications with Azure Resource Manager (ARM): Leverage IaC to Vastly Improve the Life Cycle of Your Applications">
+<img src="Images/IaCBook.jpg" width="120" alt="Building Applications with Azure Resource Manager (ARM): Leverage IaC to Vastly Improve the Life Cycle of Your Applications">
 
 
 ### Industry Certifications
 #### Microsoft
-<img src="Images/mcsa-cloud-platform-certified-2018.png" alt="MCSA Cloud Platform Badge">
-<img src="Images/microsoft-certified-trainer-2020-2021.png" alt="Microsoft Certified Trainer Badge">
-<img src="Images/microsoft-certified-azure-solutions-architect-expert.png" alt="Azure Solutions Architect Badge">
-<img src="Images/microsoft-certified-devops-engineer-expert.png" alt="DevOps Expert Certification Badge" >
-<img src="Images/microsoft-certified-data-analyst-associate.png" alt="Microsoft Data Analyst Certification Badge" >
-<img src="Images/microsoft-certified-azure-data-engineer-associate.png" alt="Azure Data Engineer Associate Certification Badge" width="120" height="120">
-<img src="Images/microsoft-certified-azure-security-engineer-associate_120x120.png" alt="Azure Security Engineer Associate Certification Badge">
-<img src="Images/microsoft-certified-azure-administrator-associate.png" alt="Azure Administrator Associate Certification Badge">
-<img src="Images/microsoft-certified-azure-developer-associate.png" alt="Azure Developer Associate Certification Badge">
-<img src="Images/microsoft-certified-azure-network-engineer-associate.png" alt="Azure Network Engineer Associate Certification Badge">
-<img src="Images/cosmos_specialty.png" alt="Azure CosmosDB Specialty Badge">
-<img src="Images/microsoft-certified-azure-fundamentals.png" alt="Azure Fundamentals Certification Badge">
-<img src="Images/microsoft-certified-azure-data-fundamentals.png" alt="Azure Data Fundamentals Certification Badge">
-<img src="Images/microsoft-certified-security-compliance-and-identity-fundamentals.png" alt="Azure Security, Compliance and Identity Fundamentals Certification Badge">
 
-#### GitHub
-[<img src="Images/github-actions.png" alt="GitHub Actions" width="120" height="120">](https://www.credly.com/badges/888a5ae4-ead7-4f2a-af92-c46aa6e2cfc1/public_url)
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none;"><img src="Images/mcsa-cloud-platform-certified-2018.png" alt="MCSA Cloud Platform Badge" width="120" height="120"></td>
+    <td style="border: none;"><img src="Images/microsoft-certified-trainer-2020-2021.png" alt="Microsoft Certified Trainer Badge" width="120" height="120"></td>
+    <td style="border: none;"><img src="Images/microsoft-certified-azure-solutions-architect-expert.png" alt="Azure Solutions Architect Badge" width="120" height="120"></td>
+  </tr>
+  <tr>
+    <td style="border: none;"><img src="Images/microsoft-certified-devops-engineer-expert.png" alt="DevOps Expert Certification Badge" width="120" height="120"></td>
+    <td style="border: none;"><img src="Images/microsoft-certified-data-analyst-associate.png" alt="Microsoft Data Analyst Certification Badge" width="120" height="120"></td>
+    <td style="border: none;"><img src="Images/microsoft-certified-azure-data-engineer-associate.png" alt="Azure Data Engineer Associate Certification Badge" width="120" height="120"></td>
+  </tr>
+  <tr>
+    <td style="border: none;"><img src="Images/microsoft-certified-azure-security-engineer-associate_120x120.png" alt="Azure Security Engineer Associate Certification Badge" width="120" height="120"></td>
+    <td style="border: none;"><img src="Images/microsoft-certified-azure-administrator-associate.png" alt="Azure Administrator Associate Certification Badge" width="120" height="120"></td>
+    <td style="border: none;"></td>
+  </tr>
+</table>
 
-#### Terraform
-[<img src="Images/hashicorp-certified-terraform-associate.png" alt="Terraform Associate Certification Badge" width="100" height="100">](https://www.credly.com/badges/dde5c34f-91d3-4f5a-bfb4-b72dd16a2bda/public_url)
+#### GitHub and Azure Hero Badgers
 
-#### Azure Hero Badgers
-[<img src="Images/azure_hero_content_hero.png" alt="Azure Hero Badge for Content Hero">](https://enjinx.io/eth/asset/6880000000000514)
-[<img src="Images/azure_hero_opensourcer.png" alt="Azure Hero Badge for Open Sourcer Hero">](https://enjinx.io/eth/asset/688000000000091c)
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none;"><a href="https://www.credly.com/badges/888a5ae4-ead7-4f2a-af92-c46aa6e2cfc1/public_url"><img src="Images/github-actions.png" alt="GitHub Actions" width="120" height="120"></a></td>
+    <td style="border: none;"><a href="https://www.credly.com/badges/dde5c34f-91d3-4f5a-bfb4-b72dd16a2bda/public_url"><img src="Images/hashicorp-certified-terraform-associate.png" alt="Terraform Associate Certification Badge" width="120" height="120"></a></td>
+    <td style="border: none;"><a href="https://enjinx.io/eth/asset/6880000000000514"><img src="Images/azure_hero_content_hero.png" alt="Azure Hero Badge for Content Hero" width="120" height="120"></a></td>
+  </tr>
+  <tr>
+    <td style="border: none;"><a href="https://enjinx.io/eth/asset/688000000000091c"><img src="Images/azure_hero_opensourcer.png" alt="Azure Hero Badge for Open Sourcer Hero" width="120" height="120"></a></td>
+  </tr>
+</table>
 
-#### AWS
-[<img src="Images/aws-certified-solutions-architect-associate.png" alt="Amazon Web Services Solutions Architect Associate Certification Badge">](https://www.youracclaim.com/badges/143806b6-4c26-4cf8-ba05-e1c049287dce)
-[<img src="Images/aws-certified-cloud-practitioner.png" alt="Amazon Web Services Solutions Cloud Practitioner Certification Badge">](https://www.youracclaim.com/badges/d1970aa6-5ef2-46f0-aa73-3af0a13b3914)
+#### AWS and GCP
+
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none;"><a href="https://www.youracclaim.com/badges/143806b6-4c26-4cf8-ba05-e1c049287dce"><img src="Images/aws-certified-solutions-architect-associate.png" alt="Amazon Web Services Solutions Architect Associate Certification Badge" width="120" height="120"></a></td>
+    <td style="border: none;"><a href="https://www.youracclaim.com/badges/d1970aa6-5ef2-46f0-aa73-3af0a13b3914"><img src="Images/aws-certified-cloud-practitioner.png" alt="Amazon Web Services Solutions Cloud Practitioner Certification Badge" width="120" height="120"></a></td>
+        <td style="border: none;"><a href="https://www.credly.com/badges/3e2a25f7-e280-4883-b5ed-3ae45e032823/public_url"><img src="Images/cloud-digital-leader-certification.png" alt="Google Cloud Leader Badge" width="120" height="120"></a></td>
+  </tr>
+</table>
 
 ### GitHub Stats
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfolberth&show_icons=true)
